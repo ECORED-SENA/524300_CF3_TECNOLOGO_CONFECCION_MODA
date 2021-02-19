@@ -9,38 +9,38 @@
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "teoria",
-    "title": "1. Teoría de la Forma.",
+    "title": "1. Teoría de la Forma",
     "breadcrumb": ["Inicio","teoria"],
     "path": "pages/1-tema.html",
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "teoria",
-        "title": "1.1 La forma y sus significados, la psicología de la Gestalt.",
+        "title": "1.1 La forma y sus significados, la psicología de la Gestalt",
         "anchor": "forma"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "teoria",
-        "title": "1.2 Semiótica, semántica, simbolización de las formas y volúmenes.",
+        "title": "1.2 Semiótica, semántica, simbolización de las formas y volúmenes",
         "anchor": "semiotica"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "teoria",
-        "title": "1.3 Formas geométricas, formas naturales.",
+        "title": "1.3 Formas geométricas, formas naturales",
         "anchor": "formas"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "teoria",
-        "title": "1.4 Las formas en el diseño de vestuario.",
+        "title": "1.4 Las formas en el diseño de vestuario",
         "anchor": "formas1"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "teoria",
-        "title": "1.5 Exploración de la forma.",
+        "title": "1.5 Exploración de la forma",
         "anchor": "exploracion"
       }
     ]
@@ -49,32 +49,32 @@
     "id": 2,
     "icon": "fa fa-file-text",
     "slug": "diseno",
-    "title": "2. Diseño y planos técnicos.",
+    "title": "2. Diseño y planos técnicos",
     "breadcrumb": ["Inicio","diseno"],
     "path": "pages/2-tema.html",
     "submenu": [
       {
         "icon": "fa fa-play-circle",
         "slug": "diseno",
-        "title": "2.1 Dibujo técnico: escuadra ángulos y líneas paralelas.",
+        "title": "2.1 Dibujo técnico: escuadra, ángulos y líneas paralelas",
         "anchor": "dibujo"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "diseno",
-        "title": "2.2 Líneas rectas, lenguaje de líneas y escalas.",
+        "title": "2.2 Líneas rectas, lenguaje de líneas y escalas",
         "anchor": "lineas"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "diseno",
-        "title": "2.3 Dibujo desde la observación, plano técnico y cotas.",
+        "title": "2.3 Dibujo desde la observación, plano técnico y cotas",
         "anchor": "dibujo1"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "diseno",
-        "title": "2.4 Transformaciones geométricas, ángulos y proyecciones.",
+        "title": "2.4 Transformaciones geométricas, ángulos y proyecciones",
         "anchor": "transformaciones"
       }
     ]
@@ -83,32 +83,32 @@
     "id": 3,
     "icon": "fa fa-file-text",
     "slug": "figurin",
-    "title": "3. Figurín y ropero.",
+    "title": "3. Figurín y ropero",
     "breadcrumb": ["Inicio","figurin"],
     "path": "pages/3-tema.html",
     "submenu": [
       {
         "icon": "fa fa-play-circle",
         "slug": "figurin",
-        "title": "3.1 La ilustración en el mundo de la moda.",
+        "title": "3.1 La ilustración en el mundo de la moda",
         "anchor": "ilustracion"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "figurin",
-        "title": "3.2 Técnicas de ilustración y expresión de la figura humana.",
+        "title": "3.2 Técnicas de ilustración y expresión de la figura humana",
         "anchor": "tecnicas"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "figurin",
-        "title": "3.3 Estructuras del figurín, principios y técnicas para elaborar figurines.",
+        "title": "3.3 Estructuras del figurín, principios y técnicas para elaborar figurines",
         "anchor": "estructuras"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "figurin",
-        "title": "3.4 Ropero, desarrollo e interpretación por medio de dibujos planos o geometrales.",
+        "title": "3.4 Ropero, desarrollo e interpretación por medio de dibujos planos o geometrales",
         "anchor": "ropero"
       }
     ]
